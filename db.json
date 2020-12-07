@@ -1,7 +1,8 @@
 {
 "posts":[
 {"id": 0, "patient": "John Mole", "Diagnosis": "Corona Virus"},
-{"id": 1, "patient": "Mike Duke", "Diagnosis": "Bruises"}
+{"id": 1, "patient": "Mike Duke", "Diagnosis": "Bruises"},
+{"id": 2, "patient": "Peter Tosh", "Diagnosis": "Mystenia Gravis"}
 ]
 ,
 
