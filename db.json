@@ -1,0 +1,12 @@
+{
+"posts":[
+{"id": 0, "patient": "John Mole", "Diagnosis": "Corona Virus"},
+{"id": 1, "patient": "Mike Duke", "Diagnosis": "Bruises"}
+]
+,
+
+"comments":[
+{"id": 0, "patient": "Mike Duke", "message": "I love this hospital"}
+]
+
+}
