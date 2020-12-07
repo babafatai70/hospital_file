@@ -7,7 +7,7 @@
 ,
 
 "comments":[
-{"id": 0, "patient": "Mike Duke", "message": "I love this hospital"}
+{"id": 0, "client": "Mike Duke", "message": "I love this hospital"}
 ]
 
 }
